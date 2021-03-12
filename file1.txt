@@ -1,2 +1,3 @@
 Hello
 Hi (from master branch)
+line from user1
